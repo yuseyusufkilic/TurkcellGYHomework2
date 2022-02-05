@@ -1,0 +1,16 @@
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\kisiselproject.exe
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\kisiselproject.deps.json
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\kisiselproject.runtimeconfig.json
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\kisiselproject.runtimeconfig.dev.json
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\kisiselproject.dll
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\ref\kisiselproject.dll
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\kisiselproject.pdb
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.csproj.AssemblyReference.cache
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.AssemblyInfoInputs.cache
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.AssemblyInfo.cs
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.csproj.CoreCompileInputs.cache
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.dll
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\ref\kisiselproject.dll
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.pdb
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\kisiselproject.genruntimeconfig.cache

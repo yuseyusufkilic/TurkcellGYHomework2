@@ -1,0 +1,16 @@
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\OCP Example.exe
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\OCP Example.deps.json
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\OCP Example.runtimeconfig.json
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\OCP Example.runtimeconfig.dev.json
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\OCP Example.dll
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\ref\OCP Example.dll
+D:\C# Projects\kisiselproject\kisiselproject\bin\Debug\net5.0\OCP Example.pdb
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.csproj.AssemblyReference.cache
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.AssemblyInfoInputs.cache
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.AssemblyInfo.cs
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.csproj.CoreCompileInputs.cache
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.dll
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\ref\OCP Example.dll
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.pdb
+D:\C# Projects\kisiselproject\kisiselproject\obj\Debug\net5.0\OCP Example.genruntimeconfig.cache
